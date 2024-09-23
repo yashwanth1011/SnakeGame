@@ -45,6 +45,8 @@ This is a Python-based **Snake Game** implemented using the Python programming l
    ```
 
 3. Run the game:
+   ```bash
    python SnakeGame.py
+   ```
 
    
